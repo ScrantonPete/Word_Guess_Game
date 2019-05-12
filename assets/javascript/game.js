@@ -2,7 +2,7 @@
 // ==============================================================================
 
 // Arrays and Variables
-var movieList = ["inception", "goodfellas", "scarface", "", "ghostbusters", "caddyshack", "jumanji", "airplane"]
+var movieList = ["inception", "goodfellas", "scarface", "", "ghostbusters", "caddyshack", "jumanji"]
 var selectedMovie = "";
 var lettersInMovie = [];
 var numBlanks = 0;
