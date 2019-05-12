@@ -15,7 +15,7 @@ It lets you guess the movie titles of some great movie titles.
 The project is useful to demonstrate some basid javascript functionality.
 
 You Can go to this GitHub page to play:
-
+https://scrantonpete.github.io/Word_Guess_Game/
 
 You probably can't get help from me, lol!
 
